@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import './Component/Timmer'
+import Timmer from './Component/Timmer'
 
 function App() {
   return (
